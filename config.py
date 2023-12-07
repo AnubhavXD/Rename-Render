@@ -15,9 +15,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6860649146:AAHwONXLYFxtC4BYfYqZiQ1m3mP7
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "AkariWatanabeBots") 
 
-             # Don't Remove Credit @VJ_Botz
-             # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-             # Ask Doubt on telegram @KingVJ01
+            
 
 DB_NAME = os.environ.get("DB_NAME", "AKARIRENAME")     
 
